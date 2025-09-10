@@ -1,4 +1,4 @@
-# UC-dashboard
+# urban company-dashboard
 📊 Sales & Service Performance Dashboard
 
 This Power BI dashboard provides a comprehensive view of sales performance and customer service insights over a 2-year period. It is designed to help data analysts and business stakeholders track key business metrics, identify trends, and make data-driven decisions.
